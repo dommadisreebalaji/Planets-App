@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.heading {
+  text-align: center;
+  color: #05acff;
+  font-family: Roboto;
+  font-weight: 700;
+}
+.slider-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+  background-size: cover;
+  padding: 40px;
+}
